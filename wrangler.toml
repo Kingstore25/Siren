@@ -17,9 +17,6 @@ routes = [
   { pattern = "wpforms.com.siren.kingstore.dpdns.org", custom_domain = true },
   { pattern = "zoom.vibenet.world.siren.kingstore.dpdns.org", custom_domain = true },
   { pattern = "thisiswhyimbroke.com.siren.kingstore.dpdns.org", custom_domain = true },
-
-
-
 ]
 
 [[kv_namespaces]]
