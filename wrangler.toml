@@ -13,6 +13,13 @@ routes = [
   { pattern = "support.zoom.us.siren.kingstore.dpdns.org", custom_domain = true },  
   { pattern = "quiz.int.vidio.com.siren.kingstore.dpdns.org", custom_domain = true },
   { pattern = "zaintest.vuclip.com.siren.kingstore.dpdns.org", custom_domain = true },
+  { pattern = "info.microsoft.com.siren.kingstore.dpdns.org", custom_domain = true },
+  { pattern = "wpforms.com.siren.kingstore.dpdns.org", custom_domain = true },
+  { pattern = "zoom.vibenet.world.siren.kingstore.dpdns.org", custom_domain = true },
+  { pattern = "thisiswhyimbroke.com.siren.kingstore.dpdns.org", custom_domain = true },
+
+
+
 ]
 
 [[kv_namespaces]]
